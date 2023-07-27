@@ -1,7 +1,7 @@
 server:
   port: 80
   servlet:
-    context-path: /sunday
+    context-path: /step02_gBookGradle
     
 spring:
   datasource:
